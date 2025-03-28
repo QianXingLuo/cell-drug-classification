@@ -1,7 +1,6 @@
 # cell-drug-classification
 Deep learning approach to predict drug treatments from cell images
 
-I'll translate the complete text into English and then explain my translation approach in Chinese. Here's the English translation:
 
 ---
 **1. Research Overview**
